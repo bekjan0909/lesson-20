@@ -6,3 +6,10 @@
  border-radius: 45px;
 
 }
+.content {
+width: 200px ;
+height: 400px ;
+justify-content: center;
+border-radius: 45px ;
+background-color: blue;
+}
